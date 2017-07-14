@@ -54,3 +54,16 @@ table {
   width:60%;
   margin: 0px 20% 0px 20%;
 }
+
+.games {
+  text-align: center;
+  display: block;
+}
+
+
+embed {
+  display: block;
+  margin: auto;
+  width: 80%;
+  background-color: none;
+}
